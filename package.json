@@ -1,6 +1,6 @@
 {
   "name": "@trestle/mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP step execution for Trestle workflows (bundled into @trestle/sdk)",
   "type": "module",
   "main": "./dist/index.js",
